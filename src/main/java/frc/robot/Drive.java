@@ -12,6 +12,7 @@ import com.ctre.phoenix.motorcontrol.can.VictorSPX;
 
 public class Drive {
 
+	//xbox controler
 	Joystick xbox1 = new Joystick(0);
 	// FALCON PLOT STUFF
 
